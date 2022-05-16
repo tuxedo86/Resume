@@ -11,6 +11,8 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
+@import url(//fonts.googleapis.com/css?family=Rokkitt:400,700|Lato:400,300);
+
 html, body {background: #d2d2d2; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #222;}
 
 .clear {clear: both;}
